@@ -1,0 +1,2 @@
+MediaTek-LiveScript-Style-Guide
+===============================
